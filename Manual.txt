@@ -1,0 +1,20 @@
+***************************************MANUAL***************************************************************
+Instruções de Instalção.
+Passo 1: Para utilizar o programa há necessidade de instalar o MySQL na máquina local se não estiver providenciar neste link https://dev.mysql.com/downloads/mysql/ e instalar na máquina.
+
+Passo 2: Descompacte o arquivo para Área de transferência utilizando um descompactador se mesmo não estiver clicar neste lik http://www.winrarbrasil.com.br/winrar/download.mve baixar .
+
+Passo 2: Localize na pasta cadastro de cliente o executável clicando em Cadastro de Cliente + Cadastro de Cliente + na pasta Bin clique em Debug depois clique em CadastrodeCliente.exe.
+_________________________________________________________________________________________________________
+Instruções de Uso
+Para utillizar o programa segue os seguintes passos:
+Passo 1 Clique nos campos e pressione a teclas tab .
+Passo 2 Para salvar os dados Clique no botao salvar.
+__________________________________________________________________________________________________________
+
+Sobre o programa.
+O programa utiliza se liguagem C# orientada o objeto e dispoes do EntitYFrameworK implementado para criar os bancos e as tabela.
+Teve sua duração de desenvolvimento em 5horas contou com a participação de seus criadores Samuel R Batista e Douglas Lavesso.
+________________________________________________________________________________________________________
+Atenção
+Para nao excluir as tabela e banco ja criados e obrigatório desativar o EntityFramework implemando de outro modo ou usando o padrao de CRUD MVC.
